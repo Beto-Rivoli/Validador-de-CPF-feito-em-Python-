@@ -3,12 +3,11 @@
 
 
 # Utilização
-  Você começa inicializando o programa, digitando 's' ou 'n'.
-   
-    Depois você deve digitar um CPF por extenso.
+   inicialize o programa, digitando 's' ou 'n'.
+    Digite um CPF por extenso.
       Ex: "91578468809" .
     Ao confirmar, o programa ira retornar uma mensagem, indicando se o cpf é "verdadeiro" ou "falso".
-    Quando terminado todos os textes que o usuario fez, o programa mostra:
+    Quando terminado todos os testes que o usuario fez o programa ira mostrar:
       Quantidade de CPFs testados;
       Quantidade de CPFs invalidos;
       Quantidade de CPFs validos;
